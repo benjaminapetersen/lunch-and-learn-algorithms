@@ -1,0 +1,9 @@
+{
+  "esversion": 6,
+  "globals": {
+    "console": true,
+    "exports": true,
+    "describe": true,
+    "it": true
+  }
+}
