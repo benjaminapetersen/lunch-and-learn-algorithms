@@ -38,5 +38,5 @@ describe('binarySearch', () => {
     // expect( binarySearch(numbers, 50) ).toEqual(-1);
     // expect( binarySearch(states, 'Michigan') ).toEqual(20);
     // expect( binarySearch(states, 'Mexico') ).toEqual(-1);
-  })
-})
+  });
+});
