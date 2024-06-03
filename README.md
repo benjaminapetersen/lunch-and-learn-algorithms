@@ -1,3 +1,4 @@
 # lunch-and-learn-algorithms
 
-- Also: `../algorithm-study` for another repository of my studying algorithms.
+- Originally: `../algorithm-study`, renamed for consistency with
+  my general pattern for "study" style project repos.
